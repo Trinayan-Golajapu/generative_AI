@@ -1,0 +1,46 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+venv/
+.venv/
+env/
+ENV/
+conda_env/
+*.env
+
+# Conda environments
+envs/
+.conda/
+
+# Environment variables
+.env
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Mac system files
+.DS_Store
+
+# Logs
+*.log
+
+# VS Code settings
+.vscode/
+
+# Python build files
+build/
+dist/
+*.egg-info/
+
+# Streamlit cache
+.streamlit/
+
+# Pytest cache
+.pytest_cache/
+
+# Mypy cache
+.mypy_cache/
