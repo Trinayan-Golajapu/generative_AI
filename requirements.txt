@@ -1,0 +1,5 @@
+youtube_transcript_api
+streamlit
+google-generativeai # to access google gemini api
+python-dotenv # for handling environmental variables
+pathlib
